@@ -48,11 +48,3 @@ I use GitHub to document what I’m learning, build projects, and turn real-worl
 **Tech:** `Python` `Flask` `SQLite` `JavaScript` `Chart.js` `Tailwind CSS` `REST API`
 
 🌐 **Live Demo:** [datastack-insights.onrender.com](https://datastack-insights.onrender.com/)
-
----
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/irfanhaqueomi/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/irfanmk1)
