@@ -1,6 +1,6 @@
 # Hi, I'm Irfan Haque 👋
 
-### Finance Graduate → Data Analytics & Business Intelligence
+### Finance Graduate | Data Analytics & Business Intelligence
 
 I’m a **Finance graduate** building a career at the intersection of **business, data, and technology**.
 
