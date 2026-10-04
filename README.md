@@ -26,10 +26,6 @@ I use GitHub to document what I’m learning, build projects, and turn real-worl
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-### Analytics Concepts
-
-`Data Cleaning` · `Exploratory Data Analysis` · `Data Visualization` · `Business Analysis` · `Financial Analysis` · `Dashboarding`
-
 ---
 
 ## 🚀 Featured Project
